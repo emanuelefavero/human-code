@@ -1,0 +1,28 @@
+2 Aprire un pacchetto di figurine
+---------------------------------
+
+INIZIO
+
+prendo il pacchetto di figurine
+Prendo l'album di figurine
+Prendo il mazzetto delle doppie
+
+APRO il pacchetto di figurine
+
+PER OGNI figurina nel pacchetto:
+  Considero la figurina non presente nell'album
+
+  PER OGNI spazio dell'album:
+    SE nello spazio c'e' la stessa figurina:
+      considero la figurina gia' presente
+      esco da questo ciclo
+
+  SE la figurina e' gia' presente nell'album:
+    metto la figurina nel mazzetto delle doppie
+  ALTRIMENTI:
+    attacco la figurina nell'album
+
+SE ho figurine doppie:
+  Le porto dagli amici sabato
+
+FINE

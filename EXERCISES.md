@@ -25,43 +25,46 @@ Perché ci si mette sempre un’ora a scegliere cosa guardare la sera? Certo è 
 > L’ingrediente segreto
 
 Chissà perché, per quanto ci provi e segua alla lettera la ricetta, non vengono mai come quelle di nonna! Ho studiato alla perfezione tutti gli ingredienti, le quantità, i tempi e modalità di cottura, ma alla fine le lasagne della nonna sono sempre di un altro livello!
-Comprare qualcosa su Amazon
-Il regalo perfetto
+
+## 5 Comprare qualcosa su Amazon
+
+> Il regalo perfetto
+
 Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacerebbe sorprenderla, so che le piaceva tanto quella lampada da tavolo così particolare, però la consegna non è Prime e non arriverebbe mai in tempo! Potrei optare per una bella stilografica ma sicuramente sforo il budget, forse è meglio optare per un buon libro: un classico ma so che con lei vado sul sicuro!
 
-## 5 Ordinare una pizza
+## 6 Ordinare una pizza
 
 > Tu non hai fame?!
 
 Dopo una lunga giornata passata al pc, ho proprio voglia di concedermi una bella pizza succulenta! Sì, ma quale? Fammi dare un occhio al listino… Va beh, è inutile, tanto alla fine ordino sempre la stessa: una classica prosciutto e funghi. La pizza arriva ancora fumante, chissà se riuscirò a mangiarla tutta!
 Di sicuro se ne avanzo una fetta devo ricordarmi di metterla in frigo, non come l’ultima volta!
 
-## 6 Scansionare un documento su più fogli fronte-retro
+## 7 Scansionare un documento su più fogli fronte-retro
 
 > La pratica perduta
 
 Finalmente sono riuscito a ritrovare quella pratica che sembrava essere svanita nel nulla! Che poi, possibile che nel 2021 ci siano ancora così tanti fogli di carta in giro per l’ufficio?! Ora ci penso io: una bella scansione e l’archiviamo in formato digitale, così la prossima volta so già dove andare a cercarla! L’unica pecca è che lo scanner non ha il fronte-retro automatico e mi tocca farlo a mano. Va beh, poco male, almeno sono pochi fogli!
 
-## 7 Contare i posti a tavola di 2 in 2
+## 8 Contare i posti a tavola di 2 in 2
 
 > Ci s(t)iamo tutti?
 
 Per il pranzo di Natale, diamo una mano a nonna per preparare la tavola: zio Rino, la piccola Emy, zia Lucia e nonno Carlo… siamo davvero in tanti!
 Non sarà un pranzo formale, perciò non servono i segnaposto con i nomi, però dobbiamo verificare che ci sia un posto per ciascuno. Per essere più rapidi contiamo i posti a tavola di 2 in 2 e ci accorgiamo che avevamo dimenticato un posto!
 
-## 8 Caricare una foto su Instagram
+## 9 Caricare una foto su Instagram
 
 > Cheese!
 
 Durante le vacanze ho fatto mille mila foto, ora come faccio a scegliere quella giusta da caricare su Instagram? I paesaggi mozzafiato che ho visitato non ne avrebbero bisogno, però cercherò il filtro giusto per migliorare la luce e rendere più vividi i colori, in modo che le foto rendano giustizia alla bellezza della natura
 
-## 9 Attraversare la strada
+## 10 Attraversare la strada
 
 > Look left / look right
 
 Semafori, rotonde e precedenze… al test per la patente, la domanda sugli incroci manda sempre un po’ in confusione! Per stavolta ci concentriamo solamente sugli step da fare per attraversare la strada, sapendo che ogni passo deve essere ben misurato altrimenti potrebbe costarci caro!
 
-## 10 Gioco del blackjack
+## 11 Gioco del blackjack
 
 > 21 vittoria, grande baldoria!
 

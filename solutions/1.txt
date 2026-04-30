@@ -1,1 +1,61 @@
 
+1 Fare la spesa seguendo una lista
+----------------------------------
+
+INIZIO
+
+Creo una lista_della_spesa vuota
+
+FASE 1: PREPARARE LA LISTA DELLA SPESA
+
+Controllo il frigo e la dispensa
+PER OGNI prodotto nel frigo o nella dispensa:
+  SE il prodotto e' finito O e' quasi finito O e' scaduto O e' vicino alla scadenza:
+    aggiungo il prodotto alla lista_della_spesa
+
+Controllo le crocchette di Ricky
+SE a Ricky piacciono le crocchette che ho in casa:
+  SE le crocchette di Ricky sono finite O quasi finite O scadute O vicine alla scadenza:
+    aggiungo le crocchette di Ricky alla lista_della_spesa
+ALTRIMENTI:
+  aggiungo crocchette di un'altra marca alla lista_della_spesa
+
+
+FASE 2: FARE LA SPESA
+
+Prendo il portafogli
+Prendo il coupon
+Prendo la lista_della_spesa
+Vado al supermercato
+
+Prendo il carrello
+
+PER OGNI prodotto nella lista_della_spesa:
+  Cerco il prodotto tra gli scaffali
+
+  SE il prodotto e' disponibile:
+    metto il prodotto nel carrello
+    segno il prodotto come preso
+  ALTRIMENTI:
+    Cerco un prodotto simile
+    SE trovo un prodotto simile:
+      metto il prodotto simile nel carrello
+      segno il prodotto come preso
+    ALTRIMENTI:
+      lascio il prodotto nella lista come non preso
+
+Aggiungo gli snack extra al carrello
+
+Vado alla cassa
+Metto tutti i prodotti sul nastro per farli scannerizzare e lascio gli snack extra per ultimi
+
+SE il prezzo degli snack extra e' minore del budget disponibile meno il totale dei prodotti:
+  metto gli snack extra sul nastro
+ALTRIMENTI:
+  riporto gli snack extra sullo scaffale
+
+Uso il coupon
+Pago alla cassa
+Torno a casa
+
+FINE

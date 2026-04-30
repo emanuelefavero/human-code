@@ -86,3 +86,11 @@ Una volta che il giocatore ha terminato le sue azioni e il suo punteggio è deci
 2. Se il suo punteggio è uguale o superiore a 17, deve stare.
 
 A questo punto, se nessuno ha sballato (e quindi perso), si confrontano i punteggi del banco e del giocatore: il più alto decreta il vincitore.
+
+&nbsp;
+
+---
+
+&nbsp;
+
+[**Go Back &nbsp; ⬅️**](README.md)

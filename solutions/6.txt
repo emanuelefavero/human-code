@@ -1,0 +1,51 @@
+6 Ordinare una pizza
+--------------------
+
+INIZIO
+
+DATI:
+pizza_preferita("prosciutto e funghi")
+numero_fette_pizza(8)
+fette_mangiate(0)
+
+
+FASE 1: SCEGLIERE LA PIZZA
+
+Prendo il listino della pizzeria
+
+PER OGNI pizza nel listino:
+  SE la pizza e' piu' allettante di pizza_preferita:
+    aggiorno pizza_preferita con la pizza del listino
+    esco dal ciclo
+  ALTRIMENTI:
+    continuo con la prossima pizza
+
+
+FASE 2: ORDINARE LA PIZZA
+
+Prendo il telefono
+Leggo il numero della pizzeria sul listino
+Chiamo la pizzeria
+Dico che vorrei ordinare la pizza_preferita
+Dico il mio indirizzo
+Dico il mio numero di telefono
+Confermo l'ordine
+Aspetto che la pizza arrivi
+
+
+FASE 3: MANGIARE LA PIZZA
+
+SE la pizza e' arrivata:
+  Metto la pizza su un piatto
+  Prendo le forbici da cucina
+  Taglio la pizza in numero_fette_pizza fette
+
+FINCHE' ho fame E fette_mangiate < numero_fette_pizza:
+  Prendo una fetta di pizza
+  Mangio la fetta di pizza
+  Aumento fette_mangiate di 1
+
+SE fette_mangiate < numero_fette_pizza:
+  Metto la pizza avanzata in frigo
+
+FINE

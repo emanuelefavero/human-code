@@ -42,8 +42,7 @@ SE la pizza e' arrivata:
 
 FINCHE' ho fame E fette_mangiate < numero_fette_pizza:
   Prendo una fetta di pizza
-  Mangio la fetta di pizza
-  Aumento fette_mangiate di 1
+  Mangio la fetta di pizza (fette_mangiate + 1)
 
 SE fette_mangiate < numero_fette_pizza:
   Metto la pizza avanzata in frigo

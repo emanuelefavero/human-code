@@ -1,0 +1,53 @@
+4 Preparare le lasagne alla bolognese
+-------------------------------------
+
+INIZIO
+
+Nota: Si assume che il ragu', besciamella e pasta siano gia' pronti (fanno parte degli ingredienti necessari, non sono considerati come fasi a se stanti)
+
+Prendo la ricetta della nonna
+Preparo il piano di lavoro
+Rileggo la lista degli ingredienti
+Prendo tutti gli ingredienti necessari
+Leggo i tempi di cottura e le modalita' di preparazione
+
+FASE 1: PREPARARE GLI INGREDIENTI
+
+PER OGNI ingrediente nella ricetta:
+  Controllo se ho l'ingrediente in casa
+
+  SE l'ingrediente e' presente:
+    metto da parte la quantita' necessaria
+  ALTRIMENTI:
+    aggiungo l'ingrediente alla lista della spesa
+
+SE ho tutti gli ingredienti:
+  passo alla fase 2
+ALTRIMENTI:
+  vado a fare la spesa
+
+FASE 2: PREPARARE LE LASAGNE
+
+Prendo una teglia da forno
+
+FINCHE' ho ancora ingredienti per fare uno strato:
+  metto uno strato di pasta nella teglia
+  aggiungo uno strato di ragu'
+  aggiungo uno strato di besciamella
+
+FASE 3: COTTURA
+
+Accendo il forno alla temperatura indicata nella ricetta
+Aggiungo parmigiano grattugiato sopra le lasagne
+Metto le lasagne in forno
+Aspetto il tempo di cottura indicato nella ricetta
+
+SE le lasagne sono cotte:
+  le tolgo dal forno
+ALTRIMENTI:
+  lascio cuocere ancora qualche minuto
+
+Lascio riposare le lasagne qualche minuto
+Servo le lasagne in tavola
+
+FINE

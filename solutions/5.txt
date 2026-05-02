@@ -1,0 +1,50 @@
+5 Comprare qualcosa su Amazon
+-----------------------------
+
+INIZIO
+
+Prendo il telefono o il computer
+Apro Amazon
+Controllo il budget disponibile
+Controllo entro quando deve arrivare il regalo
+
+Creo una lista_possibili_regali
+Aggiungo la lampada da tavolo alla lista_possibili_regali
+Aggiungo la stilografica alla lista_possibili_regali
+Aggiungo un buon libro alla lista_possibili_regali
+
+Considero di non aver ancora scelto nessun regalo
+
+
+FASE 1: CERCARE UN REGALO ADATTO
+
+PER OGNI regalo nella lista_possibili_regali:
+  Cerco il regalo su Amazon
+
+  PER OGNI prodotto trovato su Amazon:
+    Controllo se il prodotto ha Prime
+    Controllo la data di consegna del prodotto
+    Controllo il prezzo del prodotto
+
+    SE il prodotto ha Prime E arriva entro il compleanno E
+il prezzo e' entro il budget:
+      scelgo il prodotto come regalo
+      esco da questo ciclo
+
+  SE ho scelto un regalo:
+    esco da questo ciclo
+  ALTRIMENTI:
+    continuo con il prossimo possibile regalo
+
+
+FASE 2: COMPRARE IL REGALO
+
+SE ho scelto un regalo:
+  aggiungo il regalo al carrello
+  confermo l'indirizzo di consegna
+  scelgo il metodo di pagamento
+  compro il regalo
+ALTRIMENTI:
+  vado a comprare un regalo in un negozio fisico
+
+FINE

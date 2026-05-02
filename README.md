@@ -16,3 +16,9 @@ Ogni soluzione viene scritta in un file `.txt`, senza usare un linguaggio di pro
 ## Soluzioni
 
 - [1 Fare la spesa seguendo una lista](solutions/1.txt)
+- [2 Aprire un pacchetto di figurine](solutions/2.txt)
+- [3 Scegliere cosa guardare su Netflix](solutions/3.txt)
+- [4 Preparare le lasagne alla bolognese](solutions/4.txt)
+- [5 Comprare qualcosa su Amazon](solutions/5.txt)
+- [6 Ordinare una pizza](solutions/6.txt)
+- [7 Scansionare un documento su più fogli fronte-retro](solutions/7.txt)

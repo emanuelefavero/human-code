@@ -1,0 +1,39 @@
+7 Scansionare un documento su più fogli fronte-retro
+----------------------------------------------------
+
+INIZIO
+
+Prendo la pratica cartacea
+Accendo lo scanner
+Apro il programma dello scanner
+Creo un nuovo documento digitale
+
+
+FASE 1: SCANSIONARE I FOGLI
+
+PER OGNI foglio della pratica:
+  Metto il foglio nello scanner lato fronte
+  Scansiono il foglio
+  SE la scansione e' leggibile:
+    Aggiungo la scansione al documento digitale
+  ALTRIMENTI:
+    Scansiono di nuovo il lato fronte con impostazioni diverse
+
+  SE il foglio ha un lato retro:
+    Giro il foglio sul lato retro
+    Metto il foglio nello scanner
+    Scansiono il foglio
+    SE la scansione e' leggibile:
+      Aggiungo la scansione al documento digitale
+    ALTRIMENTI:
+      Scansiono di nuovo il lato retro con impostazioni diverse
+
+
+FASE 2: ARCHIVIARE IL DOCUMENTO
+
+Creo una cartella digitale per la pratica
+Salvo il documento digitale nella cartella
+Do al documento un nome riconoscibile
+Chiudo il programma dello scanner
+
+FINE

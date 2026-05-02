@@ -1,0 +1,37 @@
+3 Scegliere che cosa guardare su Netflix
+----------------------------------------
+
+INIZIO
+
+Prendo il telecomando
+Accendo la TV
+Apro Netflix
+
+FASE 1: CAPIRE COSA POSSIAMO GUARDARE
+
+Chiedo a tutte le persone cosa vogliono guardare
+Controllo i gusti di tutti
+Controllo quanto tempo abbiamo a disposizione
+Controllo quanto siamo stanchi
+Considero il film che ci hanno consigliato
+
+
+FASE 2: CERCARE COSA GUARDARE
+
+SE abbiamo molto tempo E non siamo troppo stanchi:
+  cerco il film consigliato su Netflix
+ALTRIMENTI:
+  vado nella sezione serie TV
+  cerco una serie TV con episodi brevi
+
+FINCHE' non abbiamo scelto cosa guardare:
+  controllo il contenuto proposto da Netflix
+
+  SE il contenuto piace a tutti E dura meno del tempo
+disponibile:
+    seleziono il contenuto e premo play
+    esco dal ciclo
+  ALTRIMENTI:
+    passo al prossimo contenuto
+
+FINE

@@ -1,0 +1,36 @@
+9 Caricare una foto su Instagram
+--------------------------------
+
+INIZIO
+
+Apro la galleria del telefono
+
+DATI:
+foto_preferita = prima foto delle vacanze
+
+
+FASE 1: SELEZIONO LA FOTO CHE VOGLIO CARICARE SU INSTAGRAM
+
+PER OGNI foto delle vacanze nella mia galleria:
+  SE foto e' piu' bella di foto_preferita:
+    foto_preferita = foto
+  
+
+FASE 2: MODIFICARE LA FOTO
+
+Apro l'app di Instagram
+Seleziono l'opzione per caricare una nuova foto
+Carico foto_preferita
+
+PER OGNI filtro disponibile:
+  SE il filtro migliora la luce E rende i colori piu' vividi:
+    seleziono il filtro
+    esco dal ciclo
+
+
+FASE 3: PUBBLICARE LA FOTO
+
+Aggiungo una didascalia alla foto
+Condivido la foto su Instagram
+
+FINE

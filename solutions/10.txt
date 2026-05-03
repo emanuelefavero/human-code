@@ -1,0 +1,31 @@
+10 Attraversare la strada
+-------------------------
+
+INIZIO
+
+Mi avvicino alle strisce pedonali
+Mi fermo sul marciapiede, davanti alle strisce
+
+
+FASE 1: CONTROLLARE LA STRADA
+
+SE c'e' un semaforo:
+  FINCHE' il semaforo pedonale non e' verde:
+    aspetto sul marciapiede
+
+Guardo a sinistra
+Guardo a destra
+Guardo di nuovo a sinistra
+
+FASE 2: ATTRAVERSARE LA STRADA
+
+FINCHE' ci sono veicoli in arrivo:
+  aspetto sul marciapiede
+  continuo a controllare la strada
+
+Attraverso la strada camminando sulle strisce pedonali
+Continuo a controllare la strada mentre cammino
+Arrivo dall'altra parte della strada
+
+
+FINE

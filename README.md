@@ -22,3 +22,4 @@ Ogni soluzione viene scritta in un file `.txt`, senza usare un linguaggio di pro
 - [5 Comprare qualcosa su Amazon](solutions/5.txt)
 - [6 Ordinare una pizza](solutions/6.txt)
 - [7 Scansionare un documento su più fogli fronte-retro](solutions/7.txt)
+- [8 Contare i posti a tavola di 2 in 2](solutions/8.txt)

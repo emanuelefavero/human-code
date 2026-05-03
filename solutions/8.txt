@@ -1,0 +1,30 @@
+8 Contare i posti a tavola di 2 in 2
+------------------------------------
+
+INIZIO
+
+DATI:
+posti_gia_preparati = number
+persone = 0
+
+FASE 1: CONTARE PERSONE A TAVOLA DI 2 IN 2
+  
+FINCHE' ci sono almeno 2 persone da contare:
+  conto 2 persone (persone += 2)
+
+SE rimane 1 persona da contare:
+  conto 1 persona (persone += 1)
+
+
+FASE 2: CONTROLLARE SE DOBBIAMO AGGIUNGERE O TOGLIERE POSTI A TAVOLA
+
+SE persone > posti_gia_preparati:
+  FINCHE' persone > posti_gia_preparati:
+    aggiungo un posto a tavola (posti_gia_preparati += 1)
+ALTRIMENTI SE persone < posti_gia_preparati:
+  FINCHE' persone < posti_gia_preparati:
+    tolgo un posto a tavola (posti_gia_preparati -= 1)
+ALTRIMENTI:
+  i posti a tavola sono sufficienti
+
+FINE

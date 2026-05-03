@@ -23,3 +23,6 @@ Ogni soluzione viene scritta in un file `.txt`, senza usare un linguaggio di pro
 - [6 Ordinare una pizza](solutions/6.txt)
 - [7 Scansionare un documento su più fogli fronte-retro](solutions/7.txt)
 - [8 Contare i posti a tavola di 2 in 2](solutions/8.txt)
+- [9 Caricare una foto su Instagram](solutions/9.txt)
+- [10 Attraversare la strada](solutions/10.txt)
+- [11 Gioco del blackjack](solutions/11.txt)

@@ -1,0 +1,83 @@
+11 Gioco del blackjack
+----------------------
+
+INIZIO
+
+Nota: Per semplificare la soluzione, si considera una partita tra un solo giocatore e il banco.
+
+DATI:
+punteggio_giocatore = 0
+punteggio_banco = 0
+giocatore_ha_perso = falso
+banco_ha_perso = falso
+
+FASE 1: INIZIARE LA PARTITA
+
+Il giocatore fa la puntata
+Il banco distribuisce due carte scoperte al giocatore
+Il banco distribuisce una carta scoperta e una carta coperta a se stesso
+
+Il giocatore calcola il proprio punteggio
+
+SE il giocatore ha una carta da 10 E un asso:
+  il giocatore ha fatto blackjack e si ferma
+
+
+FASE 2: TURNO DEL GIOCATORE
+
+FINCHE' giocatore_ha_perso e' falso E punteggio_giocatore < 21:
+  il giocatore sceglie "hit" o "stare"
+  
+  SE il giocatore sceglie "hit":
+    il banco distribuisce una carta scoperta al giocatore
+
+    SE il giocatore riceve un asso:
+      il giocatore sceglie il valore migliore tra 1 e 11
+      il giocatore aggiorna il proprio punteggio
+    ALTRIMENTI:
+      punteggio_giocatore += valore della carta
+    
+    SE punteggio_giocatore == 21:
+      esco dal ciclo
+    ALTRIMENTI SE punteggio_giocatore > 21:
+      giocatore_ha_perso = vero
+      esco dal ciclo
+  
+  ALTRIMENTI SE il giocatore sceglie "stare":
+    esco dal ciclo
+
+
+FASE 3: TURNO DEL BANCO
+
+SE giocatore_ha_perso e' falso:
+  Il banco scopre la sua carta coperta
+  Calcolo il punteggio_banco con le due carte iniziali
+
+  FINCHE' banco_ha_perso e' falso E punteggio_banco < 17:
+    il banco distribuisce una carta scoperta a se stesso
+
+    SE il banco riceve un asso:
+      il banco sceglie il valore migliore tra 1 e 11
+      il banco aggiorna il proprio punteggio
+    ALTRIMENTI:
+      punteggio_banco += valore della carta
+  
+    SE punteggio_banco > 21:
+      banco_ha_perso = vero
+      esco dal ciclo
+
+
+FASE 4: DETERMINARE IL VINCITORE
+
+SE giocatore_ha_perso:
+  il banco vince
+ALTRIMENTI SE banco_ha_perso:
+  il giocatore vince
+ALTRIMENTI SE punteggio_giocatore > punteggio_banco:
+  il giocatore vince
+ALTRIMENTI SE punteggio_giocatore < punteggio_banco:
+  il banco vince
+ALTRIMENTI:
+  pareggio
+
+FINE

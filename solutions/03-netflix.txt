@@ -24,7 +24,7 @@ ALTRIMENTI:
   vado nella sezione serie TV
   cerco una serie TV con episodi brevi
 
-FINCHE' non abbiamo scelto cosa guardare:
+FINCHE' non abbiamo scelto cosa guardare E abbiamo esaminato meno di 15 contenuti:
   controllo il contenuto proposto da Netflix
 
   SE il contenuto piace a tutti E dura meno del tempo
@@ -33,5 +33,8 @@ disponibile:
     esco dal ciclo
   ALTRIMENTI:
     passo al prossimo contenuto
+
+SE non abbiamo scelto cosa guardare:
+  seleziono un film o una serie TV a caso e premo play
 
 FINE

@@ -16,8 +16,12 @@ Guardo di nuovo a sinistra
 FASE 2: ATTRAVERSARE LA STRADA
 
 FINCHE' ci sono veicoli in arrivo:
-  aspetto sul marciapiede
-  continuo a controllare la strada
+  SE e' passato molto tempo e non e' ancora sicuro attraversare:
+    cerco un punto piu' sicuro per attraversare
+    esco dal ciclo
+  ALTRIMENTI:
+    aspetto sul marciapiede
+    continuo a controllare la strada
 
 Attraverso la strada camminando sulle strisce pedonali
 Continuo a controllare la strada mentre cammino

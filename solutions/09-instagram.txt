@@ -7,6 +7,7 @@ Apro la galleria del telefono
 
 DATI:
 foto_preferita = prima foto delle vacanze
+filtro_preferito = nessun filtro
 
 
 FASE 1: SELEZIONO LA FOTO CHE VOGLIO CARICARE SU INSTAGRAM
@@ -23,10 +24,12 @@ Seleziono l'opzione per caricare una nuova foto
 Carico foto_preferita
 
 PER OGNI filtro disponibile:
-  SE il filtro migliora la luce E rende i colori piu' vividi:
-    seleziono il filtro
-    esco dal ciclo
+  SE il filtro migliora la luce E rende i colori piu'
+  vividi meglio di filtro_preferito:
+    filtro_preferito = filtro
 
+SE filtro_preferito e' diverso da nessun filtro:
+  applico filtro_preferito alla foto
 
 FASE 3: PUBBLICARE LA FOTO
 
